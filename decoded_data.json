@@ -1,0 +1,54 @@
+[
+    {
+        "url": "unknown/Content/DASH/Live/channel(canale5)/manifest_hd.mpd",
+        "mcDetails": {
+            "mi": "239.200.0.80",
+            "mp": "5004",
+            "mii": "1",
+            "mpi": "0",
+            "st": "dash",
+            "sri": "canale5hd",
+            "lsv": "0+1631753344830item-06item;0+1631753344830item-07item;0+1631753344830item-08item",
+            "mia": "239.200.0.83",
+            "mpa": "5004",
+            "miia": "1",
+            "mpia": "0",
+            "lsa": "0+1631753344830item-09item",
+            "dspd": "8000"
+        },
+        "mcVideoStreams": {
+            "239.200.0.80:5004": "1631753344830item-06item",
+            "239.200.0.81:5004": "1631753344830item-07item",
+            "239.200.0.82:5004": "1631753344830item-08item"
+        },
+        "mcAudioStreams": {
+            "239.200.0.83:5004": "1631753344830item-09item"
+        },
+        "mcServiceType": "dash",
+        "mcServiceID": "canale5hd",
+        "mcRFUN": "unknown",
+        "mcDataSpeed": "8000"
+    },
+    {
+        "url": "unknown/Content/HLS/Live/channel(timvisionpromo1)/index.m3u8",
+        "mcDetails": {
+            "mi": "239.200.0.1",
+            "mp": "5004",
+            "mii": "1",
+            "mpi": "0",
+            "st": "hls",
+            "sri": "TimVisionPromo1-hls_clear",
+            "lsv": "0+7517172;0+5879080;0+3056385"
+        },
+        "mcVideoStreams": {
+            "239.200.0.1:5004": "7517172",
+            "239.200.0.2:5004": "5879080",
+            "239.200.0.3:5004": "3056385"
+        },
+        "mcAudioStreams": {},
+        "mcServiceType": "hls",
+        "mcServiceID": "TimVisionPromo1-hls_clear",
+        "mcRFUN": "unknown",
+        "mcDataSpeed": "unknown"
+    }
+]
