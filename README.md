@@ -16,4 +16,7 @@ Ottenere Lista Flussi
 
 Visualizzare video HLS in diretta:
 - `./mchls2ts 239.200.0.2 5004 | vlc -`
-
+---
+Informazioni:
+- Test effettuati con Fritz 7530
+- Test senza TIM BOX e senza Abb. DAZN
