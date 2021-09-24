@@ -1,0 +1,6 @@
+*.dash
+*.m4[v|i]
+Stream*/
+*.m3u8
+*.ts
+bin/*
